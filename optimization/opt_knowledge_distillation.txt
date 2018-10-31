@@ -1,0 +1,153 @@
+temperature=12 #### optimizer=SGD #### lr=0.100 ####
+
+  0;Loss:6.903855;Val_loss:6.905829Test_loss:6.906034;Speed:30.0;Train_mae:9.163959e-05;Val_mae:7.664641e-05;Test_mae:7.625707e-05
+  1;Loss:6.901129;Val_loss:6.904631Test_loss:6.904841;Speed:30.0;Train_mae:7.161517e-05;Val_mae:6.605647e-05;Test_mae:6.563675e-05
+  2;Loss:6.907125;Val_loss:6.904145Test_loss:6.904359;Speed:30.0;Train_mae:6.331165e-05;Val_mae:6.117145e-05;Test_mae:6.073586e-05
+  3;Loss:6.899815;Val_loss:6.903883Test_loss:6.904105;Speed:30.0;Train_mae:5.853629e-05;Val_mae:5.839370e-05;Test_mae:5.799805e-05
+  4;Loss:6.906415;Val_loss:6.903801Test_loss:6.904025;Speed:30.0;Train_mae:5.529145e-05;Val_mae:5.752226e-05;Test_mae:5.714014e-05
+  5;Loss:6.899369;Val_loss:6.903626Test_loss:6.903855;Speed:30.0;Train_mae:5.335736e-05;Val_mae:5.567686e-05;Test_mae:5.533550e-05
+  6;Loss:6.906103;Val_loss:6.903568Test_loss:6.903800;Speed:30.0;Train_mae:5.184680e-05;Val_mae:5.499107e-05;Test_mae:5.466592e-05
+  7;Loss:6.899180;Val_loss:6.903483Test_loss:6.903718;Speed:30.0;Train_mae:5.084235e-05;Val_mae:5.408374e-05;Test_mae:5.378719e-05
+  8;Loss:6.905956;Val_loss:6.903456Test_loss:6.903690;Speed:30.0;Train_mae:5.006553e-05;Val_mae:5.374427e-05;Test_mae:5.344743e-05
+  9;Loss:6.899026;Val_loss:6.903406Test_loss:6.903641;Speed:30.0;Train_mae:4.922028e-05;Val_mae:5.319358e-05;Test_mae:5.289658e-05
+ 10;Loss:6.905889;Val_loss:6.903376Test_loss:6.903614;Speed:30.0;Train_mae:4.893146e-05;Val_mae:5.289046e-05;Test_mae:5.261919e-05
+ 11;Loss:6.898985;Val_loss:6.903354Test_loss:6.903589;Speed:30.0;Train_mae:4.825481e-05;Val_mae:5.264676e-05;Test_mae:5.234462e-05
+ 12;Loss:6.905792;Val_loss:6.903351Test_loss:6.903585;Speed:30.0;Train_mae:4.774348e-05;Val_mae:5.249079e-05;Test_mae:5.218212e-05
+ 13;Loss:6.898912;Val_loss:6.903290Test_loss:6.903530;Speed:30.0;Train_mae:4.739140e-05;Val_mae:5.188699e-05;Test_mae:5.163219e-05
+ 14;Loss:6.905729;Val_loss:6.903293Test_loss:6.903532;Speed:30.0;Train_mae:4.715385e-05;Val_mae:5.193658e-05;Test_mae:5.166646e-05
+temperature=12 #### optimizer=SGD #### lr=0.010 ####
+
+  0;Loss:6.907550;Val_loss:6.912300Test_loss:6.912496;Speed:30.0;Train_mae:1.131439e-04;Val_mae:1.177047e-04;Test_mae:1.173907e-04
+  1;Loss:6.905710;Val_loss:6.910093Test_loss:6.910302;Speed:30.0;Train_mae:1.037790e-04;Val_mae:1.056075e-04;Test_mae:1.053549e-04
+  2;Loss:6.911652;Val_loss:6.909216Test_loss:6.909394;Speed:30.0;Train_mae:9.816075e-05;Val_mae:1.002895e-04;Test_mae:9.984937e-05
+  3;Loss:6.904101;Val_loss:6.908170Test_loss:6.908362;Speed:30.0;Train_mae:9.416625e-05;Val_mae:9.358612e-05;Test_mae:9.319200e-05
+  4;Loss:6.910459;Val_loss:6.907902Test_loss:6.908096;Speed:30.0;Train_mae:9.064074e-05;Val_mae:9.186288e-05;Test_mae:9.147037e-05
+  5;Loss:6.903131;Val_loss:6.907184Test_loss:6.907380;Speed:30.0;Train_mae:8.737869e-05;Val_mae:8.698638e-05;Test_mae:8.658330e-05
+  6;Loss:6.909650;Val_loss:6.906830Test_loss:6.907023;Speed:30.0;Train_mae:8.484164e-05;Val_mae:8.438301e-05;Test_mae:8.395772e-05
+  7;Loss:6.902478;Val_loss:6.906467Test_loss:6.906650;Speed:30.0;Train_mae:8.278218e-05;Val_mae:8.165203e-05;Test_mae:8.112588e-05
+  8;Loss:6.909091;Val_loss:6.906117Test_loss:6.906310;Speed:30.0;Train_mae:8.064637e-05;Val_mae:7.893403e-05;Test_mae:7.848249e-05
+  9;Loss:6.901991;Val_loss:6.905912Test_loss:6.906109;Speed:30.0;Train_mae:7.885122e-05;Val_mae:7.731673e-05;Test_mae:7.686648e-05
+ 10;Loss:6.908642;Val_loss:6.905587Test_loss:6.905782;Speed:30.0;Train_mae:7.698895e-05;Val_mae:7.472840e-05;Test_mae:7.425434e-05
+ 11;Loss:6.901600;Val_loss:6.905684Test_loss:6.905877;Speed:30.0;Train_mae:7.567918e-05;Val_mae:7.542035e-05;Test_mae:7.491785e-05
+ 12;Loss:6.908307;Val_loss:6.905430Test_loss:6.905619;Speed:30.0;Train_mae:7.426315e-05;Val_mae:7.325048e-05;Test_mae:7.270561e-05
+ 13;Loss:6.901280;Val_loss:6.905238Test_loss:6.905439;Speed:30.0;Train_mae:7.277889e-05;Val_mae:7.163966e-05;Test_mae:7.117334e-05
+ 14;Loss:6.908007;Val_loss:6.905100Test_loss:6.905304;Speed:30.0;Train_mae:7.164607e-05;Val_mae:7.040880e-05;Test_mae:6.995922e-05
+temperature=12 #### optimizer=SGD #### lr=0.001 ####
+
+  0;Loss:6.909567;Val_loss:6.916008Test_loss:6.916090;Speed:30.0;Train_mae:1.225033e-04;Val_mae:1.351064e-04;Test_mae:1.342439e-04
+  1;Loss:6.915595;Val_loss:6.914611Test_loss:6.914722;Speed:30.0;Train_mae:1.187936e-04;Val_mae:1.287765e-04;Test_mae:1.280173e-04
+  2;Loss:6.908170;Val_loss:6.914913Test_loss:6.915069;Speed:30.0;Train_mae:1.161728e-04;Val_mae:1.303138e-04;Test_mae:1.297935e-04
+  3;Loss:6.907783;Val_loss:6.913802Test_loss:6.913940;Speed:30.0;Train_mae:1.143710e-04;Val_mae:1.250930e-04;Test_mae:1.244699e-04
+  4;Loss:6.914329;Val_loss:6.913443Test_loss:6.913636;Speed:30.0;Train_mae:1.128522e-04;Val_mae:1.234055e-04;Test_mae:1.230477e-04
+  5;Loss:6.907185;Val_loss:6.913344Test_loss:6.913548;Speed:30.0;Train_mae:1.114845e-04;Val_mae:1.229926e-04;Test_mae:1.226911e-04
+  6;Loss:6.913833;Val_loss:6.912972Test_loss:6.913167;Speed:30.0;Train_mae:1.103688e-04;Val_mae:1.211881e-04;Test_mae:1.208450e-04
+  7;Loss:6.906764;Val_loss:6.912786Test_loss:6.912993;Speed:30.0;Train_mae:1.092660e-04;Val_mae:1.202086e-04;Test_mae:1.199311e-04
+  8;Loss:6.913488;Val_loss:6.912270Test_loss:6.912499;Speed:30.0;Train_mae:1.085797e-04;Val_mae:1.175694e-04;Test_mae:1.174167e-04
+  9;Loss:6.906430;Val_loss:6.912216Test_loss:6.912430;Speed:30.0;Train_mae:1.075172e-04;Val_mae:1.172679e-04;Test_mae:1.170389e-04
+ 10;Loss:6.913157;Val_loss:6.912509Test_loss:6.912725;Speed:30.0;Train_mae:1.067376e-04;Val_mae:1.186885e-04;Test_mae:1.184826e-04
+ 11;Loss:6.906134;Val_loss:6.912014Test_loss:6.912247;Speed:30.0;Train_mae:1.060690e-04;Val_mae:1.161821e-04;Test_mae:1.160790e-04
+ 12;Loss:6.912858;Val_loss:6.911589Test_loss:6.911783;Speed:30.0;Train_mae:1.050784e-04;Val_mae:1.139330e-04;Test_mae:1.136161e-04
+ 13;Loss:6.905856;Val_loss:6.911234Test_loss:6.911437;Speed:30.0;Train_mae:1.042587e-04;Val_mae:1.120861e-04;Test_mae:1.117981e-04
+ 14;Loss:6.912621;Val_loss:6.911110Test_loss:6.911320;Speed:30.0;Train_mae:1.039272e-04;Val_mae:1.112409e-04;Test_mae:1.109912e-04
+temperature=12 #### optimizer=RMSProp #### lr=0.100 ####
+
+  0;Loss:6.901580;Val_loss:6.907867Test_loss:6.908108;Speed:30.0;Train_mae:7.309628e-05;Val_mae:8.891944e-05;Test_mae:8.878118e-05
+  1;Loss:6.908397;Val_loss:6.907822Test_loss:6.908057;Speed:30.0;Train_mae:7.271716e-05;Val_mae:8.875354e-05;Test_mae:8.858733e-05
+  2;Loss:6.901555;Val_loss:6.908094Test_loss:6.908364;Speed:30.0;Train_mae:7.279651e-05;Val_mae:9.027748e-05;Test_mae:9.034177e-05
+  3;Loss:6.901540;Val_loss:6.907884Test_loss:6.908121;Speed:30.0;Train_mae:7.284270e-05;Val_mae:8.901504e-05;Test_mae:8.885362e-05
+  4;Loss:6.908425;Val_loss:6.907883Test_loss:6.908135;Speed:30.0;Train_mae:7.281137e-05;Val_mae:8.909849e-05;Test_mae:8.904849e-05
+  5;Loss:6.901546;Val_loss:6.907699Test_loss:6.907938;Speed:30.0;Train_mae:7.270949e-05;Val_mae:8.775598e-05;Test_mae:8.759325e-05
+  6;Loss:6.908409;Val_loss:6.907697Test_loss:6.907936;Speed:30.0;Train_mae:7.266865e-05;Val_mae:8.767122e-05;Test_mae:8.750617e-05
+  7;Loss:6.901554;Val_loss:6.907815Test_loss:6.908074;Speed:30.0;Train_mae:7.269153e-05;Val_mae:8.835246e-05;Test_mae:8.831615e-05
+  8;Loss:6.908403;Val_loss:6.907892Test_loss:6.908157;Speed:30.0;Train_mae:7.253603e-05;Val_mae:8.899190e-05;Test_mae:8.902448e-05
+  9;Loss:6.901540;Val_loss:6.907714Test_loss:6.907953;Speed:30.0;Train_mae:7.284418e-05;Val_mae:8.783979e-05;Test_mae:8.767191e-05
+ 10;Loss:6.908434;Val_loss:6.907800Test_loss:6.908027;Speed:30.0;Train_mae:7.304009e-05;Val_mae:8.841485e-05;Test_mae:8.815272e-05
+ 11;Loss:6.901532;Val_loss:6.907922Test_loss:6.908174;Speed:30.0;Train_mae:7.272870e-05;Val_mae:8.928851e-05;Test_mae:8.922246e-05
+ 12;Loss:6.908406;Val_loss:6.908159Test_loss:6.908430;Speed:30.0;Train_mae:7.279647e-05;Val_mae:9.086571e-05;Test_mae:9.094501e-05
+ 13;Loss:6.901536;Val_loss:6.907583Test_loss:6.907789;Speed:30.0;Train_mae:7.270080e-05;Val_mae:8.703543e-05;Test_mae:8.664149e-05
+ 14;Loss:6.908411;Val_loss:6.907731Test_loss:6.907977;Speed:30.0;Train_mae:7.275297e-05;Val_mae:8.800507e-05;Test_mae:8.788329e-05
+temperature=12 #### optimizer=RMSProp #### lr=0.010 ####
+
+  0;Loss:6.900106;Val_loss:6.909790Test_loss:6.910198;Speed:30.0;Train_mae:5.866282e-05;Val_mae:1.010440e-04;Test_mae:1.021136e-04
+  1;Loss:6.907693;Val_loss:6.907034Test_loss:6.907076;Speed:30.0;Train_mae:6.550437e-05;Val_mae:8.346120e-05;Test_mae:8.196640e-05
+  2;Loss:6.901162;Val_loss:6.907857Test_loss:6.908105;Speed:30.0;Train_mae:6.912292e-05;Val_mae:8.875313e-05;Test_mae:8.866508e-05
+  3;Loss:6.908377;Val_loss:6.907850Test_loss:6.908099;Speed:30.0;Train_mae:7.262316e-05;Val_mae:8.876350e-05;Test_mae:8.867843e-05
+  4;Loss:6.901528;Val_loss:6.907851Test_loss:6.908099;Speed:30.0;Train_mae:7.258750e-05;Val_mae:8.877070e-05;Test_mae:8.868231e-05
+  5;Loss:6.901530;Val_loss:6.907933Test_loss:6.908189;Speed:30.0;Train_mae:7.266628e-05;Val_mae:8.936627e-05;Test_mae:8.933983e-05
+  6;Loss:6.908388;Val_loss:6.907922Test_loss:6.908177;Speed:30.0;Train_mae:7.248152e-05;Val_mae:8.924896e-05;Test_mae:8.920441e-05
+  7;Loss:6.901559;Val_loss:6.907827Test_loss:6.908071;Speed:30.0;Train_mae:7.282624e-05;Val_mae:8.863368e-05;Test_mae:8.851567e-05
+  8;Loss:6.908419;Val_loss:6.907834Test_loss:6.908083;Speed:30.0;Train_mae:7.254819e-05;Val_mae:8.866041e-05;Test_mae:8.857766e-05
+  9;Loss:6.901514;Val_loss:6.907894Test_loss:6.908151;Speed:30.0;Train_mae:7.266727e-05;Val_mae:8.911376e-05;Test_mae:8.909360e-05
+ 10;Loss:6.908399;Val_loss:6.907956Test_loss:6.908212;Speed:30.0;Train_mae:7.272823e-05;Val_mae:8.950367e-05;Test_mae:8.947836e-05
+ 11;Loss:6.901521;Val_loss:6.907909Test_loss:6.908161;Speed:30.0;Train_mae:7.253038e-05;Val_mae:8.913581e-05;Test_mae:8.906852e-05
+ 12;Loss:6.908400;Val_loss:6.907868Test_loss:6.908123;Speed:30.0;Train_mae:7.281076e-05;Val_mae:8.889253e-05;Test_mae:8.885638e-05
+ 13;Loss:6.901543;Val_loss:6.907813Test_loss:6.908052;Speed:30.0;Train_mae:7.280457e-05;Val_mae:8.851054e-05;Test_mae:8.835558e-05
+ 14;Loss:6.908431;Val_loss:6.907773Test_loss:6.908016;Speed:30.0;Train_mae:7.268910e-05;Val_mae:8.825299e-05;Test_mae:8.812649e-05
+temperature=12 #### optimizer=RMSProp #### lr=0.001 ####
+
+  0;Loss:6.898849;Val_loss:6.903058Test_loss:6.903316;Speed:30.0;Train_mae:4.616338e-05;Val_mae:4.872400e-05;Test_mae:4.857280e-05
+  1;Loss:6.905276;Val_loss:6.903212Test_loss:6.903485;Speed:30.0;Train_mae:4.095390e-05;Val_mae:4.957695e-05;Test_mae:4.955074e-05
+  2;Loss:6.898564;Val_loss:6.903713Test_loss:6.904001;Speed:30.0;Train_mae:4.281446e-05;Val_mae:5.460565e-05;Test_mae:5.476513e-05
+  3;Loss:6.905782;Val_loss:6.904186Test_loss:6.904507;Speed:30.0;Train_mae:4.700263e-05;Val_mae:5.915755e-05;Test_mae:5.971065e-05
+  4;Loss:6.899268;Val_loss:6.904999Test_loss:6.905268;Speed:30.0;Train_mae:5.043457e-05;Val_mae:6.694121e-05;Test_mae:6.690362e-05
+  5;Loss:6.899476;Val_loss:6.905219Test_loss:6.905532;Speed:30.0;Train_mae:5.287338e-05;Val_mae:6.891797e-05;Test_mae:6.934068e-05
+  6;Loss:6.906515;Val_loss:6.905560Test_loss:6.905903;Speed:30.0;Train_mae:5.424644e-05;Val_mae:7.152146e-05;Test_mae:7.224720e-05
+  7;Loss:6.899730;Val_loss:6.905597Test_loss:6.905881;Speed:30.0;Train_mae:5.534391e-05;Val_mae:7.214262e-05;Test_mae:7.228135e-05
+  8;Loss:6.906665;Val_loss:6.905491Test_loss:6.905765;Speed:30.0;Train_mae:5.590306e-05;Val_mae:7.091822e-05;Test_mae:7.099061e-05
+  9;Loss:6.899865;Val_loss:6.906240Test_loss:6.906562;Speed:30.0;Train_mae:5.619958e-05;Val_mae:7.753767e-05;Test_mae:7.803188e-05
+ 10;Loss:6.906764;Val_loss:6.905922Test_loss:6.906202;Speed:30.0;Train_mae:5.680302e-05;Val_mae:7.460144e-05;Test_mae:7.471125e-05
+ 11;Loss:6.899915;Val_loss:6.905763Test_loss:6.906092;Speed:30.0;Train_mae:5.723591e-05;Val_mae:7.340158e-05;Test_mae:7.397556e-05
+ 12;Loss:6.906793;Val_loss:6.905796Test_loss:6.906117;Speed:30.0;Train_mae:5.725767e-05;Val_mae:7.367072e-05;Test_mae:7.417387e-05
+ 13;Loss:6.899956;Val_loss:6.905920Test_loss:6.906220;Speed:30.0;Train_mae:5.734593e-05;Val_mae:7.448614e-05;Test_mae:7.479350e-05
+ 14;Loss:6.906834;Val_loss:6.906223Test_loss:6.906597;Speed:30.0;Train_mae:5.730652e-05;Val_mae:7.726466e-05;Test_mae:7.826370e-05
+temperature=12 #### optimizer=Adam #### lr=0.100 ####
+
+  0;Loss:6.902739;Val_loss:6.908579Test_loss:6.908905;Speed:30.0;Train_mae:7.318839e-05;Val_mae:9.345623e-05;Test_mae:9.393497e-05
+  1;Loss:6.908458;Val_loss:6.908052Test_loss:6.908307;Speed:30.0;Train_mae:7.312529e-05;Val_mae:8.995768e-05;Test_mae:8.990426e-05
+  2;Loss:6.901618;Val_loss:6.907273Test_loss:6.907448;Speed:30.0;Train_mae:7.348791e-05;Val_mae:8.455764e-05;Test_mae:8.387923e-05
+  3;Loss:6.908468;Val_loss:6.907565Test_loss:6.907801;Speed:30.0;Train_mae:7.335989e-05;Val_mae:8.708439e-05;Test_mae:8.691941e-05
+  4;Loss:6.901603;Val_loss:6.908139Test_loss:6.908398;Speed:30.0;Train_mae:7.327353e-05;Val_mae:9.084564e-05;Test_mae:9.087207e-05
+  5;Loss:6.908468;Val_loss:6.907660Test_loss:6.907867;Speed:30.0;Train_mae:7.324206e-05;Val_mae:8.749521e-05;Test_mae:8.706487e-05
+  6;Loss:6.901613;Val_loss:6.908018Test_loss:6.908258;Speed:30.0;Train_mae:7.337648e-05;Val_mae:9.042873e-05;Test_mae:9.036368e-05
+  7;Loss:6.901620;Val_loss:6.908383Test_loss:6.908665;Speed:30.0;Train_mae:7.332075e-05;Val_mae:9.253585e-05;Test_mae:9.275007e-05
+  8;Loss:6.908439;Val_loss:6.907917Test_loss:6.908150;Speed:30.0;Train_mae:7.319091e-05;Val_mae:8.972003e-05;Test_mae:8.950629e-05
+  9;Loss:6.901633;Val_loss:6.908193Test_loss:6.908462;Speed:30.0;Train_mae:7.355634e-05;Val_mae:9.128108e-05;Test_mae:9.137231e-05
+ 10;Loss:6.908477;Val_loss:6.907622Test_loss:6.907841;Speed:30.0;Train_mae:7.316514e-05;Val_mae:8.722698e-05;Test_mae:8.694996e-05
+ 11;Loss:6.901611;Val_loss:6.908328Test_loss:6.908609;Speed:30.0;Train_mae:7.331349e-05;Val_mae:9.203319e-05;Test_mae:9.224048e-05
+ 12;Loss:6.908484;Val_loss:6.908022Test_loss:6.908308;Speed:30.0;Train_mae:7.329979e-05;Val_mae:8.991110e-05;Test_mae:9.012516e-05
+ 13;Loss:6.901605;Val_loss:6.907868Test_loss:6.908118;Speed:30.0;Train_mae:7.336933e-05;Val_mae:8.884075e-05;Test_mae:8.875085e-05
+ 14;Loss:6.908467;Val_loss:6.908229Test_loss:6.908491;Speed:30.0;Train_mae:7.320169e-05;Val_mae:9.123166e-05;Test_mae:9.129766e-05
+temperature=12 #### optimizer=Adam #### lr=0.010 ####
+
+  0;Loss:6.900665;Val_loss:6.906869Test_loss:6.907118;Speed:30.0;Train_mae:6.395777e-05;Val_mae:8.235551e-05;Test_mae:8.226723e-05
+  1;Loss:6.908161;Val_loss:6.908105Test_loss:6.908364;Speed:30.0;Train_mae:7.050107e-05;Val_mae:9.080158e-05;Test_mae:9.080920e-05
+  2;Loss:6.901589;Val_loss:6.907647Test_loss:6.907880;Speed:30.0;Train_mae:7.316482e-05;Val_mae:8.729065e-05;Test_mae:8.706174e-05
+  3;Loss:6.908454;Val_loss:6.907900Test_loss:6.908152;Speed:30.0;Train_mae:7.311443e-05;Val_mae:8.904687e-05;Test_mae:8.897486e-05
+  4;Loss:6.901561;Val_loss:6.908158Test_loss:6.908450;Speed:30.0;Train_mae:7.281453e-05;Val_mae:9.078652e-05;Test_mae:9.102463e-05
+  5;Loss:6.908401;Val_loss:6.908057Test_loss:6.908326;Speed:30.0;Train_mae:7.278339e-05;Val_mae:9.015584e-05;Test_mae:9.021884e-05
+  6;Loss:6.901544;Val_loss:6.907921Test_loss:6.908174;Speed:30.0;Train_mae:7.269375e-05;Val_mae:8.923132e-05;Test_mae:8.916702e-05
+  7;Loss:6.901546;Val_loss:6.908001Test_loss:6.908265;Speed:30.0;Train_mae:7.281352e-05;Val_mae:8.972653e-05;Test_mae:8.974867e-05
+  8;Loss:6.908398;Val_loss:6.907818Test_loss:6.908073;Speed:30.0;Train_mae:7.244411e-05;Val_mae:8.848855e-05;Test_mae:8.844433e-05
+  9;Loss:6.901544;Val_loss:6.908017Test_loss:6.908294;Speed:30.0;Train_mae:7.267409e-05;Val_mae:8.988899e-05;Test_mae:9.001506e-05
+ 10;Loss:6.908415;Val_loss:6.907819Test_loss:6.908074;Speed:30.0;Train_mae:7.289012e-05;Val_mae:8.847833e-05;Test_mae:8.844483e-05
+ 11;Loss:6.901549;Val_loss:6.907909Test_loss:6.908175;Speed:30.0;Train_mae:7.297141e-05;Val_mae:8.903871e-05;Test_mae:8.906577e-05
+ 12;Loss:6.908373;Val_loss:6.907977Test_loss:6.908238;Speed:30.0;Train_mae:7.266905e-05;Val_mae:8.957785e-05;Test_mae:8.959860e-05
+ 13;Loss:6.901548;Val_loss:6.907800Test_loss:6.908045;Speed:30.0;Train_mae:7.280992e-05;Val_mae:8.838978e-05;Test_mae:8.827098e-05
+ 14;Loss:6.908395;Val_loss:6.907696Test_loss:6.907931;Speed:30.0;Train_mae:7.262790e-05;Val_mae:8.754770e-05;Test_mae:8.732434e-05
+temperature=12 #### optimizer=Adam #### lr=0.001 ####
+
+  0;Loss:6.898976;Val_loss:6.905565Test_loss:6.905891;Speed:30.0;Train_mae:4.685653e-05;Val_mae:7.059633e-05;Test_mae:7.117199e-05
+  1;Loss:6.906007;Val_loss:6.905082Test_loss:6.905433;Speed:30.0;Train_mae:4.867831e-05;Val_mae:6.695750e-05;Test_mae:6.777740e-05
+  2;Loss:6.899383;Val_loss:6.905202Test_loss:6.905463;Speed:30.0;Train_mae:5.142057e-05;Val_mae:6.785110e-05;Test_mae:6.775614e-05
+  3;Loss:6.906697;Val_loss:6.905986Test_loss:6.906284;Speed:30.0;Train_mae:5.580840e-05;Val_mae:7.520540e-05;Test_mae:7.547657e-05
+  4;Loss:6.900060;Val_loss:6.906322Test_loss:6.906586;Speed:30.0;Train_mae:5.854162e-05;Val_mae:7.806922e-05;Test_mae:7.807242e-05
+  5;Loss:6.907034;Val_loss:6.906230Test_loss:6.906505;Speed:30.0;Train_mae:5.940695e-05;Val_mae:7.722061e-05;Test_mae:7.729707e-05
+  6;Loss:6.900165;Val_loss:6.906290Test_loss:6.906552;Speed:30.0;Train_mae:5.944665e-05;Val_mae:7.783064e-05;Test_mae:7.780423e-05
+  7;Loss:6.907057;Val_loss:6.906662Test_loss:6.906759;Speed:30.0;Train_mae:5.966920e-05;Val_mae:8.084874e-05;Test_mae:7.966673e-05
+  8;Loss:6.900158;Val_loss:6.906774Test_loss:6.907124;Speed:30.0;Train_mae:5.947895e-05;Val_mae:8.149008e-05;Test_mae:8.222804e-05
+  9;Loss:6.900156;Val_loss:6.906184Test_loss:6.906498;Speed:30.0;Train_mae:5.938706e-05;Val_mae:7.680128e-05;Test_mae:7.721650e-05
+ 10;Loss:6.907027;Val_loss:6.906066Test_loss:6.906390;Speed:30.0;Train_mae:5.948114e-05;Val_mae:7.575772e-05;Test_mae:7.631401e-05
+ 11;Loss:6.900180;Val_loss:6.906234Test_loss:6.906529;Speed:30.0;Train_mae:5.943800e-05;Val_mae:7.753809e-05;Test_mae:7.781538e-05
+ 12;Loss:6.907011;Val_loss:6.906289Test_loss:6.906622;Speed:30.0;Train_mae:5.930741e-05;Val_mae:7.803578e-05;Test_mae:7.864395e-05
+ 13;Loss:6.900145;Val_loss:6.906448Test_loss:6.906709;Speed:30.0;Train_mae:5.926171e-05;Val_mae:7.947454e-05;Test_mae:7.946964e-05
+ 14;Loss:6.907084;Val_loss:6.906452Test_loss:6.906768;Speed:30.0;Train_mae:5.980562e-05;Val_mae:7.892082e-05;Test_mae:7.938871e-05

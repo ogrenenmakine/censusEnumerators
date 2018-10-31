@@ -99,7 +99,10 @@ class NACDDetection(VisionDataset):
         for obj in root.iter('object'):
             difficult = 0
             cls_name = obj.find('name').text.strip().lower()
-            cls_id = self.index_map[cls_name]
+            if cls_name == 'cluster':
+                cls_id = 1
+            else:
+                cls_id = 0
             xml_box = obj.find('bndbox')
             xmin = (float(xml_box.find('xmin').text) - 1)
             ymin = (float(xml_box.find('ymin').text) - 1)
